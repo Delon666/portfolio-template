@@ -4,7 +4,7 @@
     <HeadWrapper
       name="Sharon"
       title="Student"
-      userImgURL="../img/王承渲.jpg"
+      userImgURL="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREShpe_KRE3fBwhVKV3uHUrt661DCFiIUm7Q&usqp=CAU"
       phone="+60123456789"
       email="xxSharonWong@gmail.com"
     />
